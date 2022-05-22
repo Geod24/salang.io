@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Homepage
-description: Salang.io - An IT consultancy / software engineering company
+title: Salang.io
+description: An IT consultancy / software engineering company
 ---
 
 ## Salang.io
 
-Salang is a software consultancy company formed in 2022 by Mathias Lang.
+Salang is a software consultancy company incorporated in 2022, headed by Mathias Lang.
 
 Our strength & focus is on software architecture and system software engineering.
 
